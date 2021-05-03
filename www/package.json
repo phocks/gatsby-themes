@@ -42,7 +42,7 @@
     "react-helmet": "^6.1.0",
     "react-responsive": "^8.1.1",
     "react-share": "^4.3.1",
-    "react-three-fiber": "^5.2.1",
+    "react-three-fiber": "^5.3.22",
     "theme-ui": "^0.3.3",
     "three": "^0.122.0"
   },
