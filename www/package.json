@@ -30,7 +30,7 @@
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-sharp": "next",
     "gatsby-plugin-sitemap": "next",
-    "gatsby-plugin-theme-ui": "^0.3.3",
+    "gatsby-plugin-theme-ui": "^0.6.2",
     "gatsby-remark-autolink-headers": "next",
     "gatsby-remark-smartypants": "next",
     "gatsby-source-filesystem": "next",
